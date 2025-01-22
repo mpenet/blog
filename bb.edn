@@ -7,7 +7,6 @@
                    ;; interlocked, so to speak, making a stable combination - Pointcarre
                    :out-dir "docs"
                    :blog-description "A blog about... anything"
-                   :twitter-handle "mpenet"
                    :github-link "https://github.com/mpenet"
                    :discuss-link "https://github.com/mpenet/site/discussions/categories/posts"
                    :favicon true})
