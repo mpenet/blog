@@ -27,8 +27,3 @@ But for now I am just getting this bloging engine setup, courtesy of
 [https://blog.michielborkent.nl/](Michiel Borkent), and will iterate from there.
 
 See you on the next one!
-
-
-
-
-

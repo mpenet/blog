@@ -12,5 +12,3 @@
                    :favicon true})
   quickblog {:doc "Start blogging quickly! Run `bb quickblog help` for details."
              :task (cli/dispatch opts)}}}
-
-
